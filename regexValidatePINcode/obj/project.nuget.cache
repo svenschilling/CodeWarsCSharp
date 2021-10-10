@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pYwKebdHnvQY187eFDcOXrY47X5N2i2jdYJiLawzk8sjTEsqWehR1r94uvkGKkxYNZz8OouWTWZ7baMFjDbFjw==",
+  "success": true,
+  "projectFilePath": "/home/derhans/Code/regexValidatePINcode/regexValidatePINcode.csproj",
+  "expectedPackageFiles": [
+    "/home/derhans/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.7/microsoft.netcore.app.host.linux-x64.5.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

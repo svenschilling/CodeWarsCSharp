@@ -1,0 +1,16 @@
+/home/derhans/Code/RepeatString/bin/Debug/net5.0/RepeatString
+/home/derhans/Code/RepeatString/bin/Debug/net5.0/RepeatString.deps.json
+/home/derhans/Code/RepeatString/bin/Debug/net5.0/RepeatString.runtimeconfig.json
+/home/derhans/Code/RepeatString/bin/Debug/net5.0/RepeatString.runtimeconfig.dev.json
+/home/derhans/Code/RepeatString/bin/Debug/net5.0/RepeatString.dll
+/home/derhans/Code/RepeatString/bin/Debug/net5.0/ref/RepeatString.dll
+/home/derhans/Code/RepeatString/bin/Debug/net5.0/RepeatString.pdb
+/home/derhans/Code/RepeatString/obj/Debug/net5.0/RepeatString.csprojAssemblyReference.cache
+/home/derhans/Code/RepeatString/obj/Debug/net5.0/RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/RepeatString/obj/Debug/net5.0/RepeatString.AssemblyInfoInputs.cache
+/home/derhans/Code/RepeatString/obj/Debug/net5.0/RepeatString.AssemblyInfo.cs
+/home/derhans/Code/RepeatString/obj/Debug/net5.0/RepeatString.csproj.CoreCompileInputs.cache
+/home/derhans/Code/RepeatString/obj/Debug/net5.0/RepeatString.dll
+/home/derhans/Code/RepeatString/obj/Debug/net5.0/ref/RepeatString.dll
+/home/derhans/Code/RepeatString/obj/Debug/net5.0/RepeatString.pdb
+/home/derhans/Code/RepeatString/obj/Debug/net5.0/RepeatString.genruntimeconfig.cache

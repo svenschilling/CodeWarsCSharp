@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RcuUe6eZjMvmErmw++SA5g5wDFW8lg9++/COh57nwAns906ysTD8m5NsXCpzqyZqbRtsaGZBfebvQjsxD/2hKQ==",
+  "success": true,
+  "projectFilePath": "/home/derhans/Code/CountOfPositives/CountOfPositives.csproj",
+  "expectedPackageFiles": [
+    "/home/derhans/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.8/microsoft.netcore.app.host.linux-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

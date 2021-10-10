@@ -1,0 +1,16 @@
+/home/derhans/Code/BinaryAddition/bin/Debug/net5.0/BinaryAddition
+/home/derhans/Code/BinaryAddition/bin/Debug/net5.0/BinaryAddition.deps.json
+/home/derhans/Code/BinaryAddition/bin/Debug/net5.0/BinaryAddition.runtimeconfig.json
+/home/derhans/Code/BinaryAddition/bin/Debug/net5.0/BinaryAddition.runtimeconfig.dev.json
+/home/derhans/Code/BinaryAddition/bin/Debug/net5.0/BinaryAddition.dll
+/home/derhans/Code/BinaryAddition/bin/Debug/net5.0/ref/BinaryAddition.dll
+/home/derhans/Code/BinaryAddition/bin/Debug/net5.0/BinaryAddition.pdb
+/home/derhans/Code/BinaryAddition/obj/Debug/net5.0/BinaryAddition.csprojAssemblyReference.cache
+/home/derhans/Code/BinaryAddition/obj/Debug/net5.0/BinaryAddition.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/BinaryAddition/obj/Debug/net5.0/BinaryAddition.AssemblyInfoInputs.cache
+/home/derhans/Code/BinaryAddition/obj/Debug/net5.0/BinaryAddition.AssemblyInfo.cs
+/home/derhans/Code/BinaryAddition/obj/Debug/net5.0/BinaryAddition.csproj.CoreCompileInputs.cache
+/home/derhans/Code/BinaryAddition/obj/Debug/net5.0/BinaryAddition.dll
+/home/derhans/Code/BinaryAddition/obj/Debug/net5.0/ref/BinaryAddition.dll
+/home/derhans/Code/BinaryAddition/obj/Debug/net5.0/BinaryAddition.pdb
+/home/derhans/Code/BinaryAddition/obj/Debug/net5.0/BinaryAddition.genruntimeconfig.cache

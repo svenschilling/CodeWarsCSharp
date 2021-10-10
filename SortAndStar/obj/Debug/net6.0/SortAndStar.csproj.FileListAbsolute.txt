@@ -1,0 +1,16 @@
+/home/derhans/Code/SortAndStar/bin/Debug/net6.0/SortAndStar
+/home/derhans/Code/SortAndStar/bin/Debug/net6.0/SortAndStar.deps.json
+/home/derhans/Code/SortAndStar/bin/Debug/net6.0/SortAndStar.runtimeconfig.json
+/home/derhans/Code/SortAndStar/bin/Debug/net6.0/SortAndStar.dll
+/home/derhans/Code/SortAndStar/bin/Debug/net6.0/SortAndStar.pdb
+/home/derhans/Code/SortAndStar/obj/Debug/net6.0/SortAndStar.csproj.AssemblyReference.cache
+/home/derhans/Code/SortAndStar/obj/Debug/net6.0/SortAndStar.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/SortAndStar/obj/Debug/net6.0/SortAndStar.AssemblyInfoInputs.cache
+/home/derhans/Code/SortAndStar/obj/Debug/net6.0/SortAndStar.AssemblyInfo.cs
+/home/derhans/Code/SortAndStar/obj/Debug/net6.0/SortAndStar.ImplicitNamespaceImports.cs
+/home/derhans/Code/SortAndStar/obj/Debug/net6.0/SortAndStar.csproj.CoreCompileInputs.cache
+/home/derhans/Code/SortAndStar/obj/Debug/net6.0/SortAndStar.dll
+/home/derhans/Code/SortAndStar/obj/Debug/net6.0/refint/SortAndStar.dll
+/home/derhans/Code/SortAndStar/obj/Debug/net6.0/SortAndStar.pdb
+/home/derhans/Code/SortAndStar/obj/Debug/net6.0/SortAndStar.genruntimeconfig.cache
+/home/derhans/Code/SortAndStar/obj/Debug/net6.0/ref/SortAndStar.dll

@@ -1,0 +1,16 @@
+/home/derhans/Code/exercises/bin/Debug/net5.0/exercises
+/home/derhans/Code/exercises/bin/Debug/net5.0/exercises.deps.json
+/home/derhans/Code/exercises/bin/Debug/net5.0/exercises.runtimeconfig.json
+/home/derhans/Code/exercises/bin/Debug/net5.0/exercises.runtimeconfig.dev.json
+/home/derhans/Code/exercises/bin/Debug/net5.0/exercises.dll
+/home/derhans/Code/exercises/bin/Debug/net5.0/ref/exercises.dll
+/home/derhans/Code/exercises/bin/Debug/net5.0/exercises.pdb
+/home/derhans/Code/exercises/obj/Debug/net5.0/exercises.csprojAssemblyReference.cache
+/home/derhans/Code/exercises/obj/Debug/net5.0/exercises.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/exercises/obj/Debug/net5.0/exercises.AssemblyInfoInputs.cache
+/home/derhans/Code/exercises/obj/Debug/net5.0/exercises.AssemblyInfo.cs
+/home/derhans/Code/exercises/obj/Debug/net5.0/exercises.csproj.CoreCompileInputs.cache
+/home/derhans/Code/exercises/obj/Debug/net5.0/exercises.dll
+/home/derhans/Code/exercises/obj/Debug/net5.0/ref/exercises.dll
+/home/derhans/Code/exercises/obj/Debug/net5.0/exercises.pdb
+/home/derhans/Code/exercises/obj/Debug/net5.0/exercises.genruntimeconfig.cache

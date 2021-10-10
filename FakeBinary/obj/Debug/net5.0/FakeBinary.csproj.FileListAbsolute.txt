@@ -1,0 +1,16 @@
+/home/derhans/Code/FakeBinary/bin/Debug/net5.0/FakeBinary
+/home/derhans/Code/FakeBinary/bin/Debug/net5.0/FakeBinary.deps.json
+/home/derhans/Code/FakeBinary/bin/Debug/net5.0/FakeBinary.runtimeconfig.json
+/home/derhans/Code/FakeBinary/bin/Debug/net5.0/FakeBinary.runtimeconfig.dev.json
+/home/derhans/Code/FakeBinary/bin/Debug/net5.0/FakeBinary.dll
+/home/derhans/Code/FakeBinary/bin/Debug/net5.0/ref/FakeBinary.dll
+/home/derhans/Code/FakeBinary/bin/Debug/net5.0/FakeBinary.pdb
+/home/derhans/Code/FakeBinary/obj/Debug/net5.0/FakeBinary.csproj.AssemblyReference.cache
+/home/derhans/Code/FakeBinary/obj/Debug/net5.0/FakeBinary.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/FakeBinary/obj/Debug/net5.0/FakeBinary.AssemblyInfoInputs.cache
+/home/derhans/Code/FakeBinary/obj/Debug/net5.0/FakeBinary.AssemblyInfo.cs
+/home/derhans/Code/FakeBinary/obj/Debug/net5.0/FakeBinary.csproj.CoreCompileInputs.cache
+/home/derhans/Code/FakeBinary/obj/Debug/net5.0/FakeBinary.dll
+/home/derhans/Code/FakeBinary/obj/Debug/net5.0/ref/FakeBinary.dll
+/home/derhans/Code/FakeBinary/obj/Debug/net5.0/FakeBinary.pdb
+/home/derhans/Code/FakeBinary/obj/Debug/net5.0/FakeBinary.genruntimeconfig.cache

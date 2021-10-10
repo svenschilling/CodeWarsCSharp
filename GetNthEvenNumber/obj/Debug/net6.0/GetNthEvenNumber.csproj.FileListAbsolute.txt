@@ -1,0 +1,15 @@
+/home/derhans/Code/GetNthEvenNumber/bin/Debug/net6.0/GetNthEvenNumber
+/home/derhans/Code/GetNthEvenNumber/bin/Debug/net6.0/GetNthEvenNumber.deps.json
+/home/derhans/Code/GetNthEvenNumber/bin/Debug/net6.0/GetNthEvenNumber.runtimeconfig.json
+/home/derhans/Code/GetNthEvenNumber/bin/Debug/net6.0/GetNthEvenNumber.dll
+/home/derhans/Code/GetNthEvenNumber/bin/Debug/net6.0/ref/GetNthEvenNumber.dll
+/home/derhans/Code/GetNthEvenNumber/bin/Debug/net6.0/GetNthEvenNumber.pdb
+/home/derhans/Code/GetNthEvenNumber/obj/Debug/net6.0/GetNthEvenNumber.csproj.AssemblyReference.cache
+/home/derhans/Code/GetNthEvenNumber/obj/Debug/net6.0/GetNthEvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/GetNthEvenNumber/obj/Debug/net6.0/GetNthEvenNumber.AssemblyInfoInputs.cache
+/home/derhans/Code/GetNthEvenNumber/obj/Debug/net6.0/GetNthEvenNumber.AssemblyInfo.cs
+/home/derhans/Code/GetNthEvenNumber/obj/Debug/net6.0/GetNthEvenNumber.csproj.CoreCompileInputs.cache
+/home/derhans/Code/GetNthEvenNumber/obj/Debug/net6.0/GetNthEvenNumber.dll
+/home/derhans/Code/GetNthEvenNumber/obj/Debug/net6.0/ref/GetNthEvenNumber.dll
+/home/derhans/Code/GetNthEvenNumber/obj/Debug/net6.0/GetNthEvenNumber.pdb
+/home/derhans/Code/GetNthEvenNumber/obj/Debug/net6.0/GetNthEvenNumber.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/derhans/Code/BuildTower/bin/Debug/net5.0/BuildTower
+/home/derhans/Code/BuildTower/bin/Debug/net5.0/BuildTower.deps.json
+/home/derhans/Code/BuildTower/bin/Debug/net5.0/BuildTower.runtimeconfig.json
+/home/derhans/Code/BuildTower/bin/Debug/net5.0/BuildTower.runtimeconfig.dev.json
+/home/derhans/Code/BuildTower/bin/Debug/net5.0/BuildTower.dll
+/home/derhans/Code/BuildTower/bin/Debug/net5.0/ref/BuildTower.dll
+/home/derhans/Code/BuildTower/bin/Debug/net5.0/BuildTower.pdb
+/home/derhans/Code/BuildTower/obj/Debug/net5.0/BuildTower.csprojAssemblyReference.cache
+/home/derhans/Code/BuildTower/obj/Debug/net5.0/BuildTower.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/BuildTower/obj/Debug/net5.0/BuildTower.AssemblyInfoInputs.cache
+/home/derhans/Code/BuildTower/obj/Debug/net5.0/BuildTower.AssemblyInfo.cs
+/home/derhans/Code/BuildTower/obj/Debug/net5.0/BuildTower.csproj.CoreCompileInputs.cache
+/home/derhans/Code/BuildTower/obj/Debug/net5.0/BuildTower.dll
+/home/derhans/Code/BuildTower/obj/Debug/net5.0/ref/BuildTower.dll
+/home/derhans/Code/BuildTower/obj/Debug/net5.0/BuildTower.pdb
+/home/derhans/Code/BuildTower/obj/Debug/net5.0/BuildTower.genruntimeconfig.cache

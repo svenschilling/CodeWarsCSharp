@@ -1,0 +1,16 @@
+/home/derhans/Code/EvenFibonacciNumbers/bin/Debug/net5.0/EvenFibonacciNumbers
+/home/derhans/Code/EvenFibonacciNumbers/bin/Debug/net5.0/EvenFibonacciNumbers.deps.json
+/home/derhans/Code/EvenFibonacciNumbers/bin/Debug/net5.0/EvenFibonacciNumbers.runtimeconfig.json
+/home/derhans/Code/EvenFibonacciNumbers/bin/Debug/net5.0/EvenFibonacciNumbers.runtimeconfig.dev.json
+/home/derhans/Code/EvenFibonacciNumbers/bin/Debug/net5.0/EvenFibonacciNumbers.dll
+/home/derhans/Code/EvenFibonacciNumbers/bin/Debug/net5.0/EvenFibonacciNumbers.pdb
+/home/derhans/Code/EvenFibonacciNumbers/obj/Debug/net5.0/EvenFibonacciNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/EvenFibonacciNumbers/obj/Debug/net5.0/EvenFibonacciNumbers.AssemblyInfoInputs.cache
+/home/derhans/Code/EvenFibonacciNumbers/obj/Debug/net5.0/EvenFibonacciNumbers.AssemblyInfo.cs
+/home/derhans/Code/EvenFibonacciNumbers/obj/Debug/net5.0/EvenFibonacciNumbers.csproj.CoreCompileInputs.cache
+/home/derhans/Code/EvenFibonacciNumbers/obj/Debug/net5.0/EvenFibonacciNumbers.dll
+/home/derhans/Code/EvenFibonacciNumbers/obj/Debug/net5.0/ref/EvenFibonacciNumbers.dll
+/home/derhans/Code/EvenFibonacciNumbers/obj/Debug/net5.0/EvenFibonacciNumbers.pdb
+/home/derhans/Code/EvenFibonacciNumbers/obj/Debug/net5.0/EvenFibonacciNumbers.genruntimeconfig.cache
+/home/derhans/Code/EvenFibonacciNumbers/obj/Debug/net5.0/EvenFibonacciNumbers.csproj.AssemblyReference.cache
+/home/derhans/Code/EvenFibonacciNumbers/obj/Debug/net5.0/refint/EvenFibonacciNumbers.dll

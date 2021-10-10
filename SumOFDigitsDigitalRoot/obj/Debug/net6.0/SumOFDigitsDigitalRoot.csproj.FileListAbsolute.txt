@@ -1,0 +1,15 @@
+/home/derhans/Code/SumOFDigitsDigitalRoot/bin/Debug/net6.0/SumOFDigitsDigitalRoot
+/home/derhans/Code/SumOFDigitsDigitalRoot/bin/Debug/net6.0/SumOFDigitsDigitalRoot.deps.json
+/home/derhans/Code/SumOFDigitsDigitalRoot/bin/Debug/net6.0/SumOFDigitsDigitalRoot.runtimeconfig.json
+/home/derhans/Code/SumOFDigitsDigitalRoot/bin/Debug/net6.0/SumOFDigitsDigitalRoot.dll
+/home/derhans/Code/SumOFDigitsDigitalRoot/bin/Debug/net6.0/ref/SumOFDigitsDigitalRoot.dll
+/home/derhans/Code/SumOFDigitsDigitalRoot/bin/Debug/net6.0/SumOFDigitsDigitalRoot.pdb
+/home/derhans/Code/SumOFDigitsDigitalRoot/obj/Debug/net6.0/SumOFDigitsDigitalRoot.csproj.AssemblyReference.cache
+/home/derhans/Code/SumOFDigitsDigitalRoot/obj/Debug/net6.0/SumOFDigitsDigitalRoot.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/SumOFDigitsDigitalRoot/obj/Debug/net6.0/SumOFDigitsDigitalRoot.AssemblyInfoInputs.cache
+/home/derhans/Code/SumOFDigitsDigitalRoot/obj/Debug/net6.0/SumOFDigitsDigitalRoot.AssemblyInfo.cs
+/home/derhans/Code/SumOFDigitsDigitalRoot/obj/Debug/net6.0/SumOFDigitsDigitalRoot.csproj.CoreCompileInputs.cache
+/home/derhans/Code/SumOFDigitsDigitalRoot/obj/Debug/net6.0/SumOFDigitsDigitalRoot.dll
+/home/derhans/Code/SumOFDigitsDigitalRoot/obj/Debug/net6.0/ref/SumOFDigitsDigitalRoot.dll
+/home/derhans/Code/SumOFDigitsDigitalRoot/obj/Debug/net6.0/SumOFDigitsDigitalRoot.pdb
+/home/derhans/Code/SumOFDigitsDigitalRoot/obj/Debug/net6.0/SumOFDigitsDigitalRoot.genruntimeconfig.cache

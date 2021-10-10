@@ -1,0 +1,16 @@
+/home/derhans/Code/CountOfPositives/bin/Debug/net5.0/CountOfPositives
+/home/derhans/Code/CountOfPositives/bin/Debug/net5.0/CountOfPositives.deps.json
+/home/derhans/Code/CountOfPositives/bin/Debug/net5.0/CountOfPositives.runtimeconfig.json
+/home/derhans/Code/CountOfPositives/bin/Debug/net5.0/CountOfPositives.runtimeconfig.dev.json
+/home/derhans/Code/CountOfPositives/bin/Debug/net5.0/CountOfPositives.dll
+/home/derhans/Code/CountOfPositives/bin/Debug/net5.0/CountOfPositives.pdb
+/home/derhans/Code/CountOfPositives/obj/Debug/net5.0/CountOfPositives.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/CountOfPositives/obj/Debug/net5.0/CountOfPositives.AssemblyInfoInputs.cache
+/home/derhans/Code/CountOfPositives/obj/Debug/net5.0/CountOfPositives.AssemblyInfo.cs
+/home/derhans/Code/CountOfPositives/obj/Debug/net5.0/CountOfPositives.csproj.CoreCompileInputs.cache
+/home/derhans/Code/CountOfPositives/obj/Debug/net5.0/CountOfPositives.dll
+/home/derhans/Code/CountOfPositives/obj/Debug/net5.0/ref/CountOfPositives.dll
+/home/derhans/Code/CountOfPositives/obj/Debug/net5.0/CountOfPositives.pdb
+/home/derhans/Code/CountOfPositives/obj/Debug/net5.0/CountOfPositives.genruntimeconfig.cache
+/home/derhans/Code/CountOfPositives/obj/Debug/net5.0/CountOfPositives.csproj.AssemblyReference.cache
+/home/derhans/Code/CountOfPositives/obj/Debug/net5.0/refint/CountOfPositives.dll

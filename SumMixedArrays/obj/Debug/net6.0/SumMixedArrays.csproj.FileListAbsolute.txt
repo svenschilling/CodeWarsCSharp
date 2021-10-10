@@ -1,0 +1,15 @@
+/home/derhans/Code/SumMixedArrays/bin/Debug/net6.0/SumMixedArrays
+/home/derhans/Code/SumMixedArrays/bin/Debug/net6.0/SumMixedArrays.deps.json
+/home/derhans/Code/SumMixedArrays/bin/Debug/net6.0/SumMixedArrays.runtimeconfig.json
+/home/derhans/Code/SumMixedArrays/bin/Debug/net6.0/SumMixedArrays.dll
+/home/derhans/Code/SumMixedArrays/bin/Debug/net6.0/ref/SumMixedArrays.dll
+/home/derhans/Code/SumMixedArrays/bin/Debug/net6.0/SumMixedArrays.pdb
+/home/derhans/Code/SumMixedArrays/obj/Debug/net6.0/SumMixedArrays.csproj.AssemblyReference.cache
+/home/derhans/Code/SumMixedArrays/obj/Debug/net6.0/SumMixedArrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/SumMixedArrays/obj/Debug/net6.0/SumMixedArrays.AssemblyInfoInputs.cache
+/home/derhans/Code/SumMixedArrays/obj/Debug/net6.0/SumMixedArrays.AssemblyInfo.cs
+/home/derhans/Code/SumMixedArrays/obj/Debug/net6.0/SumMixedArrays.csproj.CoreCompileInputs.cache
+/home/derhans/Code/SumMixedArrays/obj/Debug/net6.0/SumMixedArrays.dll
+/home/derhans/Code/SumMixedArrays/obj/Debug/net6.0/ref/SumMixedArrays.dll
+/home/derhans/Code/SumMixedArrays/obj/Debug/net6.0/SumMixedArrays.pdb
+/home/derhans/Code/SumMixedArrays/obj/Debug/net6.0/SumMixedArrays.genruntimeconfig.cache

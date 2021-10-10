@@ -1,0 +1,16 @@
+/home/derhans/Code/regexValidatePINcode/bin/Debug/net5.0/regexValidatePINcode
+/home/derhans/Code/regexValidatePINcode/bin/Debug/net5.0/regexValidatePINcode.deps.json
+/home/derhans/Code/regexValidatePINcode/bin/Debug/net5.0/regexValidatePINcode.runtimeconfig.json
+/home/derhans/Code/regexValidatePINcode/bin/Debug/net5.0/regexValidatePINcode.runtimeconfig.dev.json
+/home/derhans/Code/regexValidatePINcode/bin/Debug/net5.0/regexValidatePINcode.dll
+/home/derhans/Code/regexValidatePINcode/bin/Debug/net5.0/ref/regexValidatePINcode.dll
+/home/derhans/Code/regexValidatePINcode/bin/Debug/net5.0/regexValidatePINcode.pdb
+/home/derhans/Code/regexValidatePINcode/obj/Debug/net5.0/regexValidatePINcode.csproj.AssemblyReference.cache
+/home/derhans/Code/regexValidatePINcode/obj/Debug/net5.0/regexValidatePINcode.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/regexValidatePINcode/obj/Debug/net5.0/regexValidatePINcode.AssemblyInfoInputs.cache
+/home/derhans/Code/regexValidatePINcode/obj/Debug/net5.0/regexValidatePINcode.AssemblyInfo.cs
+/home/derhans/Code/regexValidatePINcode/obj/Debug/net5.0/regexValidatePINcode.csproj.CoreCompileInputs.cache
+/home/derhans/Code/regexValidatePINcode/obj/Debug/net5.0/regexValidatePINcode.dll
+/home/derhans/Code/regexValidatePINcode/obj/Debug/net5.0/ref/regexValidatePINcode.dll
+/home/derhans/Code/regexValidatePINcode/obj/Debug/net5.0/regexValidatePINcode.pdb
+/home/derhans/Code/regexValidatePINcode/obj/Debug/net5.0/regexValidatePINcode.genruntimeconfig.cache

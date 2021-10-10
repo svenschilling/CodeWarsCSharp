@@ -1,0 +1,15 @@
+/home/derhans/Code/XO/bin/Debug/net6.0/XO
+/home/derhans/Code/XO/bin/Debug/net6.0/XO.deps.json
+/home/derhans/Code/XO/bin/Debug/net6.0/XO.runtimeconfig.json
+/home/derhans/Code/XO/bin/Debug/net6.0/XO.dll
+/home/derhans/Code/XO/bin/Debug/net6.0/ref/XO.dll
+/home/derhans/Code/XO/bin/Debug/net6.0/XO.pdb
+/home/derhans/Code/XO/obj/Debug/net6.0/XO.csproj.AssemblyReference.cache
+/home/derhans/Code/XO/obj/Debug/net6.0/XO.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/XO/obj/Debug/net6.0/XO.AssemblyInfoInputs.cache
+/home/derhans/Code/XO/obj/Debug/net6.0/XO.AssemblyInfo.cs
+/home/derhans/Code/XO/obj/Debug/net6.0/XO.csproj.CoreCompileInputs.cache
+/home/derhans/Code/XO/obj/Debug/net6.0/XO.dll
+/home/derhans/Code/XO/obj/Debug/net6.0/ref/XO.dll
+/home/derhans/Code/XO/obj/Debug/net6.0/XO.pdb
+/home/derhans/Code/XO/obj/Debug/net6.0/XO.genruntimeconfig.cache

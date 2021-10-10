@@ -1,0 +1,5 @@
+/home/derhans/Code/OddOrEven/obj/Debug/net5.0/OddOrEven.csprojAssemblyReference.cache
+/home/derhans/Code/OddOrEven/obj/Debug/net5.0/OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/OddOrEven/obj/Debug/net5.0/OddOrEven.AssemblyInfoInputs.cache
+/home/derhans/Code/OddOrEven/obj/Debug/net5.0/OddOrEven.AssemblyInfo.cs
+/home/derhans/Code/OddOrEven/obj/Debug/net5.0/OddOrEven.csproj.CoreCompileInputs.cache

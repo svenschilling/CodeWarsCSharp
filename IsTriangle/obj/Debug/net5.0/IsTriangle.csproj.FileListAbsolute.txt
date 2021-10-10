@@ -1,0 +1,16 @@
+/home/derhans/Code/IsTriangle/bin/Debug/net5.0/IsTriangle
+/home/derhans/Code/IsTriangle/bin/Debug/net5.0/IsTriangle.deps.json
+/home/derhans/Code/IsTriangle/bin/Debug/net5.0/IsTriangle.runtimeconfig.json
+/home/derhans/Code/IsTriangle/bin/Debug/net5.0/IsTriangle.runtimeconfig.dev.json
+/home/derhans/Code/IsTriangle/bin/Debug/net5.0/IsTriangle.dll
+/home/derhans/Code/IsTriangle/bin/Debug/net5.0/ref/IsTriangle.dll
+/home/derhans/Code/IsTriangle/bin/Debug/net5.0/IsTriangle.pdb
+/home/derhans/Code/IsTriangle/obj/Debug/net5.0/IsTriangle.csprojAssemblyReference.cache
+/home/derhans/Code/IsTriangle/obj/Debug/net5.0/IsTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/IsTriangle/obj/Debug/net5.0/IsTriangle.AssemblyInfoInputs.cache
+/home/derhans/Code/IsTriangle/obj/Debug/net5.0/IsTriangle.AssemblyInfo.cs
+/home/derhans/Code/IsTriangle/obj/Debug/net5.0/IsTriangle.csproj.CoreCompileInputs.cache
+/home/derhans/Code/IsTriangle/obj/Debug/net5.0/IsTriangle.dll
+/home/derhans/Code/IsTriangle/obj/Debug/net5.0/ref/IsTriangle.dll
+/home/derhans/Code/IsTriangle/obj/Debug/net5.0/IsTriangle.pdb
+/home/derhans/Code/IsTriangle/obj/Debug/net5.0/IsTriangle.genruntimeconfig.cache

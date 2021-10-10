@@ -1,0 +1,16 @@
+/home/derhans/Code/FindNeedle/obj/Debug/net5.0/FindNeedle.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/FindNeedle/obj/Debug/net5.0/FindNeedle.AssemblyInfoInputs.cache
+/home/derhans/Code/FindNeedle/obj/Debug/net5.0/FindNeedle.AssemblyInfo.cs
+/home/derhans/Code/FindNeedle/obj/Debug/net5.0/FindNeedle.csproj.CoreCompileInputs.cache
+/home/derhans/Code/FindNeedle/bin/Debug/net5.0/FindNeedle
+/home/derhans/Code/FindNeedle/bin/Debug/net5.0/FindNeedle.deps.json
+/home/derhans/Code/FindNeedle/bin/Debug/net5.0/FindNeedle.runtimeconfig.json
+/home/derhans/Code/FindNeedle/bin/Debug/net5.0/FindNeedle.runtimeconfig.dev.json
+/home/derhans/Code/FindNeedle/bin/Debug/net5.0/FindNeedle.dll
+/home/derhans/Code/FindNeedle/bin/Debug/net5.0/FindNeedle.pdb
+/home/derhans/Code/FindNeedle/obj/Debug/net5.0/FindNeedle.dll
+/home/derhans/Code/FindNeedle/obj/Debug/net5.0/ref/FindNeedle.dll
+/home/derhans/Code/FindNeedle/obj/Debug/net5.0/FindNeedle.pdb
+/home/derhans/Code/FindNeedle/obj/Debug/net5.0/FindNeedle.genruntimeconfig.cache
+/home/derhans/Code/FindNeedle/obj/Debug/net5.0/FindNeedle.csproj.AssemblyReference.cache
+/home/derhans/Code/FindNeedle/obj/Debug/net5.0/refint/FindNeedle.dll

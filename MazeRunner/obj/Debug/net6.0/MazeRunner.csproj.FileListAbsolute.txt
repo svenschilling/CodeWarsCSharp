@@ -1,0 +1,16 @@
+/home/derhans/Code/MazeRunner/obj/Debug/net6.0/MazeRunner.csproj.AssemblyReference.cache
+/home/derhans/Code/MazeRunner/obj/Debug/net6.0/MazeRunner.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/MazeRunner/obj/Debug/net6.0/MazeRunner.AssemblyInfoInputs.cache
+/home/derhans/Code/MazeRunner/obj/Debug/net6.0/MazeRunner.AssemblyInfo.cs
+/home/derhans/Code/MazeRunner/obj/Debug/net6.0/MazeRunner.ImplicitNamespaceImports.cs
+/home/derhans/Code/MazeRunner/obj/Debug/net6.0/MazeRunner.csproj.CoreCompileInputs.cache
+/home/derhans/Code/MazeRunner/bin/Debug/net6.0/MazeRunner
+/home/derhans/Code/MazeRunner/bin/Debug/net6.0/MazeRunner.deps.json
+/home/derhans/Code/MazeRunner/bin/Debug/net6.0/MazeRunner.runtimeconfig.json
+/home/derhans/Code/MazeRunner/bin/Debug/net6.0/MazeRunner.dll
+/home/derhans/Code/MazeRunner/bin/Debug/net6.0/MazeRunner.pdb
+/home/derhans/Code/MazeRunner/obj/Debug/net6.0/MazeRunner.dll
+/home/derhans/Code/MazeRunner/obj/Debug/net6.0/refint/MazeRunner.dll
+/home/derhans/Code/MazeRunner/obj/Debug/net6.0/MazeRunner.pdb
+/home/derhans/Code/MazeRunner/obj/Debug/net6.0/MazeRunner.genruntimeconfig.cache
+/home/derhans/Code/MazeRunner/obj/Debug/net6.0/ref/MazeRunner.dll

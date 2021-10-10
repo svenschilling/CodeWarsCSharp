@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z4uQbDafx7ejIluYuPaI+bwnaFoLGpTskSk5e/zV6A4/JwyVMsfO6lgrq5uizprjxSGcTYflsykkFbel6GbgLw==",
+  "success": true,
+  "projectFilePath": "/home/derhans/Code/FindNeedle/FindNeedle.csproj",
+  "expectedPackageFiles": [
+    "/home/derhans/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.8/microsoft.netcore.app.host.linux-x64.5.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

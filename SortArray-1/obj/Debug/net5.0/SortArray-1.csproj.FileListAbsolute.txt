@@ -1,0 +1,16 @@
+/home/derhans/Code/SortArray-1/bin/Debug/net5.0/SortArray-1
+/home/derhans/Code/SortArray-1/bin/Debug/net5.0/SortArray-1.deps.json
+/home/derhans/Code/SortArray-1/bin/Debug/net5.0/SortArray-1.runtimeconfig.json
+/home/derhans/Code/SortArray-1/bin/Debug/net5.0/SortArray-1.runtimeconfig.dev.json
+/home/derhans/Code/SortArray-1/bin/Debug/net5.0/SortArray-1.dll
+/home/derhans/Code/SortArray-1/bin/Debug/net5.0/ref/SortArray-1.dll
+/home/derhans/Code/SortArray-1/bin/Debug/net5.0/SortArray-1.pdb
+/home/derhans/Code/SortArray-1/obj/Debug/net5.0/SortArray-1.csprojAssemblyReference.cache
+/home/derhans/Code/SortArray-1/obj/Debug/net5.0/SortArray-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/SortArray-1/obj/Debug/net5.0/SortArray-1.AssemblyInfoInputs.cache
+/home/derhans/Code/SortArray-1/obj/Debug/net5.0/SortArray-1.AssemblyInfo.cs
+/home/derhans/Code/SortArray-1/obj/Debug/net5.0/SortArray-1.csproj.CoreCompileInputs.cache
+/home/derhans/Code/SortArray-1/obj/Debug/net5.0/SortArray-1.dll
+/home/derhans/Code/SortArray-1/obj/Debug/net5.0/ref/SortArray-1.dll
+/home/derhans/Code/SortArray-1/obj/Debug/net5.0/SortArray-1.pdb
+/home/derhans/Code/SortArray-1/obj/Debug/net5.0/SortArray-1.genruntimeconfig.cache

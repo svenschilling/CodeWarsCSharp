@@ -1,0 +1,15 @@
+/home/derhans/Code/SimplePigLatin/bin/Debug/net6.0/SimplePigLatin
+/home/derhans/Code/SimplePigLatin/bin/Debug/net6.0/SimplePigLatin.deps.json
+/home/derhans/Code/SimplePigLatin/bin/Debug/net6.0/SimplePigLatin.runtimeconfig.json
+/home/derhans/Code/SimplePigLatin/bin/Debug/net6.0/SimplePigLatin.dll
+/home/derhans/Code/SimplePigLatin/bin/Debug/net6.0/ref/SimplePigLatin.dll
+/home/derhans/Code/SimplePigLatin/bin/Debug/net6.0/SimplePigLatin.pdb
+/home/derhans/Code/SimplePigLatin/obj/Debug/net6.0/SimplePigLatin.csproj.AssemblyReference.cache
+/home/derhans/Code/SimplePigLatin/obj/Debug/net6.0/SimplePigLatin.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/SimplePigLatin/obj/Debug/net6.0/SimplePigLatin.AssemblyInfoInputs.cache
+/home/derhans/Code/SimplePigLatin/obj/Debug/net6.0/SimplePigLatin.AssemblyInfo.cs
+/home/derhans/Code/SimplePigLatin/obj/Debug/net6.0/SimplePigLatin.csproj.CoreCompileInputs.cache
+/home/derhans/Code/SimplePigLatin/obj/Debug/net6.0/SimplePigLatin.dll
+/home/derhans/Code/SimplePigLatin/obj/Debug/net6.0/ref/SimplePigLatin.dll
+/home/derhans/Code/SimplePigLatin/obj/Debug/net6.0/SimplePigLatin.pdb
+/home/derhans/Code/SimplePigLatin/obj/Debug/net6.0/SimplePigLatin.genruntimeconfig.cache

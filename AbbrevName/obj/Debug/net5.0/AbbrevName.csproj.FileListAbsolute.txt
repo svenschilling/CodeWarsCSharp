@@ -1,0 +1,16 @@
+/home/derhans/Code/AbbrevName/bin/Debug/net5.0/AbbrevName
+/home/derhans/Code/AbbrevName/bin/Debug/net5.0/AbbrevName.deps.json
+/home/derhans/Code/AbbrevName/bin/Debug/net5.0/AbbrevName.runtimeconfig.json
+/home/derhans/Code/AbbrevName/bin/Debug/net5.0/AbbrevName.runtimeconfig.dev.json
+/home/derhans/Code/AbbrevName/bin/Debug/net5.0/AbbrevName.dll
+/home/derhans/Code/AbbrevName/bin/Debug/net5.0/ref/AbbrevName.dll
+/home/derhans/Code/AbbrevName/bin/Debug/net5.0/AbbrevName.pdb
+/home/derhans/Code/AbbrevName/obj/Debug/net5.0/AbbrevName.csprojAssemblyReference.cache
+/home/derhans/Code/AbbrevName/obj/Debug/net5.0/AbbrevName.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/AbbrevName/obj/Debug/net5.0/AbbrevName.AssemblyInfoInputs.cache
+/home/derhans/Code/AbbrevName/obj/Debug/net5.0/AbbrevName.AssemblyInfo.cs
+/home/derhans/Code/AbbrevName/obj/Debug/net5.0/AbbrevName.csproj.CoreCompileInputs.cache
+/home/derhans/Code/AbbrevName/obj/Debug/net5.0/AbbrevName.dll
+/home/derhans/Code/AbbrevName/obj/Debug/net5.0/ref/AbbrevName.dll
+/home/derhans/Code/AbbrevName/obj/Debug/net5.0/AbbrevName.pdb
+/home/derhans/Code/AbbrevName/obj/Debug/net5.0/AbbrevName.genruntimeconfig.cache

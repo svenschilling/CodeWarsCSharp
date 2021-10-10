@@ -1,0 +1,15 @@
+/home/derhans/Code/ConvertNumberToReversedArray/bin/Debug/net6.0/ConvertNumberToReversedArray
+/home/derhans/Code/ConvertNumberToReversedArray/bin/Debug/net6.0/ConvertNumberToReversedArray.deps.json
+/home/derhans/Code/ConvertNumberToReversedArray/bin/Debug/net6.0/ConvertNumberToReversedArray.runtimeconfig.json
+/home/derhans/Code/ConvertNumberToReversedArray/bin/Debug/net6.0/ConvertNumberToReversedArray.dll
+/home/derhans/Code/ConvertNumberToReversedArray/bin/Debug/net6.0/ref/ConvertNumberToReversedArray.dll
+/home/derhans/Code/ConvertNumberToReversedArray/bin/Debug/net6.0/ConvertNumberToReversedArray.pdb
+/home/derhans/Code/ConvertNumberToReversedArray/obj/Debug/net6.0/ConvertNumberToReversedArray.csproj.AssemblyReference.cache
+/home/derhans/Code/ConvertNumberToReversedArray/obj/Debug/net6.0/ConvertNumberToReversedArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/ConvertNumberToReversedArray/obj/Debug/net6.0/ConvertNumberToReversedArray.AssemblyInfoInputs.cache
+/home/derhans/Code/ConvertNumberToReversedArray/obj/Debug/net6.0/ConvertNumberToReversedArray.AssemblyInfo.cs
+/home/derhans/Code/ConvertNumberToReversedArray/obj/Debug/net6.0/ConvertNumberToReversedArray.csproj.CoreCompileInputs.cache
+/home/derhans/Code/ConvertNumberToReversedArray/obj/Debug/net6.0/ConvertNumberToReversedArray.dll
+/home/derhans/Code/ConvertNumberToReversedArray/obj/Debug/net6.0/ref/ConvertNumberToReversedArray.dll
+/home/derhans/Code/ConvertNumberToReversedArray/obj/Debug/net6.0/ConvertNumberToReversedArray.pdb
+/home/derhans/Code/ConvertNumberToReversedArray/obj/Debug/net6.0/ConvertNumberToReversedArray.genruntimeconfig.cache

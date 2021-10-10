@@ -1,0 +1,16 @@
+/home/derhans/Code/CreatePhoneNumber/bin/Debug/net6.0/CreatePhoneNumber
+/home/derhans/Code/CreatePhoneNumber/bin/Debug/net6.0/CreatePhoneNumber.deps.json
+/home/derhans/Code/CreatePhoneNumber/bin/Debug/net6.0/CreatePhoneNumber.runtimeconfig.json
+/home/derhans/Code/CreatePhoneNumber/bin/Debug/net6.0/CreatePhoneNumber.dll
+/home/derhans/Code/CreatePhoneNumber/bin/Debug/net6.0/CreatePhoneNumber.pdb
+/home/derhans/Code/CreatePhoneNumber/obj/Debug/net6.0/CreatePhoneNumber.csproj.AssemblyReference.cache
+/home/derhans/Code/CreatePhoneNumber/obj/Debug/net6.0/CreatePhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/CreatePhoneNumber/obj/Debug/net6.0/CreatePhoneNumber.AssemblyInfoInputs.cache
+/home/derhans/Code/CreatePhoneNumber/obj/Debug/net6.0/CreatePhoneNumber.AssemblyInfo.cs
+/home/derhans/Code/CreatePhoneNumber/obj/Debug/net6.0/CreatePhoneNumber.csproj.CoreCompileInputs.cache
+/home/derhans/Code/CreatePhoneNumber/obj/Debug/net6.0/CreatePhoneNumber.dll
+/home/derhans/Code/CreatePhoneNumber/obj/Debug/net6.0/ref/CreatePhoneNumber.dll
+/home/derhans/Code/CreatePhoneNumber/obj/Debug/net6.0/CreatePhoneNumber.pdb
+/home/derhans/Code/CreatePhoneNumber/obj/Debug/net6.0/CreatePhoneNumber.genruntimeconfig.cache
+/home/derhans/Code/CreatePhoneNumber/obj/Debug/net6.0/CreatePhoneNumber.ImplicitNamespaceImports.cs
+/home/derhans/Code/CreatePhoneNumber/obj/Debug/net6.0/refint/CreatePhoneNumber.dll

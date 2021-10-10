@@ -1,0 +1,16 @@
+/home/derhans/Code/SumOfIntegersInString/bin/Debug/net5.0/SumOfIntegersInString
+/home/derhans/Code/SumOfIntegersInString/bin/Debug/net5.0/SumOfIntegersInString.deps.json
+/home/derhans/Code/SumOfIntegersInString/bin/Debug/net5.0/SumOfIntegersInString.runtimeconfig.json
+/home/derhans/Code/SumOfIntegersInString/bin/Debug/net5.0/SumOfIntegersInString.runtimeconfig.dev.json
+/home/derhans/Code/SumOfIntegersInString/bin/Debug/net5.0/SumOfIntegersInString.dll
+/home/derhans/Code/SumOfIntegersInString/bin/Debug/net5.0/ref/SumOfIntegersInString.dll
+/home/derhans/Code/SumOfIntegersInString/bin/Debug/net5.0/SumOfIntegersInString.pdb
+/home/derhans/Code/SumOfIntegersInString/obj/Debug/net5.0/SumOfIntegersInString.csprojAssemblyReference.cache
+/home/derhans/Code/SumOfIntegersInString/obj/Debug/net5.0/SumOfIntegersInString.GeneratedMSBuildEditorConfig.editorconfig
+/home/derhans/Code/SumOfIntegersInString/obj/Debug/net5.0/SumOfIntegersInString.AssemblyInfoInputs.cache
+/home/derhans/Code/SumOfIntegersInString/obj/Debug/net5.0/SumOfIntegersInString.AssemblyInfo.cs
+/home/derhans/Code/SumOfIntegersInString/obj/Debug/net5.0/SumOfIntegersInString.csproj.CoreCompileInputs.cache
+/home/derhans/Code/SumOfIntegersInString/obj/Debug/net5.0/SumOfIntegersInString.dll
+/home/derhans/Code/SumOfIntegersInString/obj/Debug/net5.0/ref/SumOfIntegersInString.dll
+/home/derhans/Code/SumOfIntegersInString/obj/Debug/net5.0/SumOfIntegersInString.pdb
+/home/derhans/Code/SumOfIntegersInString/obj/Debug/net5.0/SumOfIntegersInString.genruntimeconfig.cache

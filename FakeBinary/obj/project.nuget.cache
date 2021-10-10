@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JoXHvhQF86J6R1By3MSw7GKvFQuVkfponGF44cAzm4Jy7eH4bI0L5cVvTra4oZ8aPfQXOrQTBPkyDguBSJHeyw==",
+  "success": true,
+  "projectFilePath": "/home/derhans/Code/FakeBinary/FakeBinary.csproj",
+  "expectedPackageFiles": [
+    "/home/derhans/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.7/microsoft.netcore.app.host.linux-x64.5.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
